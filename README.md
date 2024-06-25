@@ -3,29 +3,21 @@
 
 A Verilog-based project that manages the parking spaces in a parking lot, distinguishing between university and non-university cars.
 
-# Tools
+## Tools
 
-# Implementation Details
+## Implementation Details
 
-# How to Run
+This project utilizes Verilog to create a parking management system. The system monitors the number of parked and vacated cars, maintaining separate counts for university-affiliated and non-university vehicles. Additionally, the system enforces maximum capacity limits for parking spaces. Initial capacities are statically determined, while capacities for non-university vehicles vary dynamically based on time.
 
-# Results
+## How to Run
 
-# Related Links
+## Results
 
-# Authors
+## Related Links
+
+## Authors
 
 
-
-
-
-## Overview
-This project implements a parking management system in Verilog. It tracks the number of parked and vacated cars, with separate counts for university and non-university cars. The system also ensures that the parking spaces do not exceed their maximum capacities.
-
-## Features
-- Tracks university and non-university parked cars
-- Ensures maximum capacity limits
-- Real-time tracking and management
 
 
 
