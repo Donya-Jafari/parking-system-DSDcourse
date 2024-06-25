@@ -1,4 +1,3 @@
-# parking-system-DSDcourse
 
 # Parking Management System
 
