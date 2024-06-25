@@ -33,7 +33,7 @@ The system effectively manages parking by accurately tracking the number of cars
 
 ## Authors
 
-- [Author Name](https://github.com/Donya-Jafari)
+- [Donya Jafari](https://github.com/Donya-Jafari)
 
 
 
